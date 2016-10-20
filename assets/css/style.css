@@ -1,5 +1,29 @@
 #navigationBar {text-align: right;}
 
-.restOfThePage {background-color: yellow;}
+.entireContentArea {width: 960px;
+	margin-left: auto;
+	margin-right: auto;}
 
-h1 {background-color: silver;}
+.mainSection {border: 1px #dddddd;
+    background-color: #ffffff;
+	float: left;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 650px;}
+
+.sideBar {width: 270px;
+	border: 1px s#dddddd;
+    background-color: #ffffff;
+	float: right;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #4aaaa5;
+	text-align: center;}
+
+h1 {background-color: #4aaaa5;
+	border-color: #cccccc;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;}
+
+h2{background-color: #ffffff;
+	border-color: #cccccc;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;}
