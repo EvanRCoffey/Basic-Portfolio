@@ -1,0 +1,19 @@
+All three:
+Fix margins, padding, colors
+Fix footer - why is it making page a few pixels too big?
+
+
+
+About:
+Nothing else
+
+
+
+Portfolio:
+Get placeholder pictures
+Make and style picture labels
+Do absolute positioning and relative positioning to get labels correct
+
+
+Contact:
+Style submit button
